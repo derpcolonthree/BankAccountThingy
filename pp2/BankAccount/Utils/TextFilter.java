@@ -14,7 +14,6 @@ import javax.swing.text.Document;
  *
  * @Citation:  <a href="https://stackoverflow.com/questions/11093326/restricting-jtextfield-input-to-integers">Restricting JTextField input to Integers [duplicate] | Stack Overflow</a>
  * @User: <a href="https://stackoverflow.com/users/522444/hovercraft-full-of-eels">Hovercraft Full Of Eels | Stack Overflow</a>
- * @Modifier: <a href="https://github.com/iid3rp">derp :3 | GitHub</a>
  */
 public class TextFilter extends DocumentFilter
 {

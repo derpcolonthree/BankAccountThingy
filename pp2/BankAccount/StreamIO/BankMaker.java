@@ -13,7 +13,7 @@ import java.io.FileWriter;
 /**
  * BankMaker class provides functionalities for creating and managing bank data.
  *
- * @author Francis (iid3rp) Madanlo
+ * @author Francis Madanlo
  */
 public class BankMaker 
 {

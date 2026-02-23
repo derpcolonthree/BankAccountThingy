@@ -13,7 +13,7 @@ import javax.swing.*;
 /**
  * The `BankReader` class provides functionalities for reading and processing bank data.
  *
- * @author Francis (iid3rp) Madanlo
+ * @author Francis Madanlo
  */
 public class BankReader
 {

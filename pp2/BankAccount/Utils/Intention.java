@@ -9,7 +9,7 @@ import java.lang.annotation.*;
  *   be modified for 'the' certain reason/s and should be asked for permission to modify when collaboration,
  *   code conflict, and code cleaning....</p>
  *
- * @author Francis (iid3rp) Madanlo
+ * @author Francis Madanlo
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target({ElementType.LOCAL_VARIABLE, ElementType.CONSTRUCTOR, ElementType.METHOD, ElementType.FIELD})

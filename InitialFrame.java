@@ -704,7 +704,7 @@ public final class InitialFrame extends JFrame
             @Override
             public void mouseClicked(MouseEvent e)
             {
-                String someText = "https://github.com/iid3rp/bankaccountthingy";
+                String someText = "https://github.com/derpcolonthree/bankaccountthingy";
                 try {
                     Desktop.getDesktop().browse(URI.create(someText));
                 }

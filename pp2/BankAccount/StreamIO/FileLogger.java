@@ -27,13 +27,9 @@ import java.time.format.DateTimeFormatter;
  * <p></p>
  * {@code  C:\Users\<your_username_goes_here>\Documents\logger.csv}
  * <p></p>
- * @author iid3rp
  */
 public class FileLogger
 {
-    // @author Francis (iid3rp) Madanlo
-    // APPOPPRIATING THIS CODE IS AGAINST THE ETHICS CODE!!
-    // no using of AI was made here...
     private final String loggerString = System.getProperty("user.home") + File.separator + "Documents" + File.separator + "logger.csv";
     private final String header = "Logging Detail,Account Number (Bank Account),Bank Name,Date and Time\n";
     private FileWriter logger;

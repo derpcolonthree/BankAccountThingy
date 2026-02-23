@@ -8,7 +8,7 @@ import java.io.File;
 /**
 * The `BankChooser` class extends `JFileChooser` and provides a way to select a bank data file.
 *
-* @author Francis (iid3rp) Madanlo
+* @author Francis Madanlo
 */
 public class BankChooser extends JFileChooser
 {
